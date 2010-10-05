@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dropasp", "dropasp\dropasp.csproj", "{4771B5F3-E376-48B3-979B-9520F3F76C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4771B5F3-E376-48B3-979B-9520F3F76C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4771B5F3-E376-48B3-979B-9520F3F76C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4771B5F3-E376-48B3-979B-9520F3F76C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4771B5F3-E376-48B3-979B-9520F3F76C21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = dropasp\dropasp.csproj
+	EndGlobalSection
+EndGlobal
